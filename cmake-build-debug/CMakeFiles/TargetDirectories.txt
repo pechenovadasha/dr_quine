@@ -1,0 +1,3 @@
+/Users/Mac/Desktop/dr_quin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Mac/Desktop/dr_quin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Mac/Desktop/dr_quin/cmake-build-debug/CMakeFiles/dr_quin.dir
